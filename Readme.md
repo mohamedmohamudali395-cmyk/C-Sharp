@@ -1,7 +1,6 @@
 # course outline
 Course Title: Visual Programming (C#.NET)
 Prerequisites: Programming
-Instructor: Yahye Ali Isse
 # course objectives
 Course Objectives
 
